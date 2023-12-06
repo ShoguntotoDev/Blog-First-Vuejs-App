@@ -27,5 +27,3 @@ npm run dev
 ```sh
 npm run build
 ```
-# formation-986
-# fr_986_formation
