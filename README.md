@@ -1,29 +1,36 @@
-# project
+# Premier Projet VueJS 3 - Blog
 
-This template should help get you started developing with Vue 3 in Vite.
+Bienvenue dans le repository de mon premier projet Vue.js 3 ! Ce projet est une application de blog simple développée avec Vue.js 3.
 
-## Recommended IDE Setup
+## Prérequis
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Avant de commencer, assurez-vous d'avoir Node.js installé sur votre machine. Vous pouvez le télécharger à partir du site officiel : [Node.js](https://nodejs.org/)
 
-## Customize configuration
+## Installation
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+1. Clonez ce repository sur votre machine locale :
 
-## Project Setup
+```bash
+git clone https://github.com/ShoguntotoDev/Blog-First-Vuejs-App
+```
 
-```sh
+## Accéder au répertoire du projet :
+```bash
+cd Blog-First-Vuejs-App
+```
+
+## Installer les dépendances du projet :
+```bash
 npm install
 ```
 
-### Compile and Hot-Reload for Development
-
-```sh
+## Lancer l'application :
+```bash
 npm run dev
 ```
 
-### Compile and Minify for Production
+## Structure du projet :
+- src/ : Contient le code source de l'application Vue.js.
+- public/ : Contient les fichiers statiques de l'application.
 
-```sh
-npm run build
-```
+## Projet réalisé lors d'une formation Alphorm, By Shoguntoto.
