@@ -33,4 +33,4 @@ npm run dev
 - src/ : Contient le code source de l'application Vue.js.
 - public/ : Contient les fichiers statiques de l'application.
 
-## Projet réalisé lors d'une formation Alphorm, By Shoguntoto.
+#### Projet réalisé lors d'une formation Alphorm, By Shoguntoto.
